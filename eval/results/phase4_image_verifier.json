@@ -1,0 +1,1689 @@
+{
+  "metrics": {
+    "accuracy": 0.7169811320754716,
+    "f1": 0.7692307692307693,
+    "evaluated_samples": 53
+  },
+  "predictions": [
+    {
+      "record_id": "ViewMax_QHD_color_01199",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.23829299211502075
+    },
+    {
+      "record_id": "PulseTracker_Pro_heart_rate_accuracy_00989",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01198",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3845638930797577
+    },
+    {
+      "record_id": "AirClean_Max_color_00877",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.34899717569351196
+    },
+    {
+      "record_id": "PulseTracker_Pro_heart_rate_accuracy_00983",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_energy_usage_00828",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_resolution_00454",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "MegaTablet_Pro_color_00078",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.41219526529312134
+    },
+    {
+      "record_id": "DoorView_HD_field_of_view_00946",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BrewMaster_3000_pressure_00896",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CloudRack_X8_color_01158",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.383209764957428
+    },
+    {
+      "record_id": "ActionCam_Hero8_color_00474",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.4005392789840698
+    },
+    {
+      "record_id": "BalanceScale_X_accuracy_01021",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_weight_00188",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_color_01118",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.42392396926879883
+    },
+    {
+      "record_id": "NoiseGuard_Pro_weight_00144",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_resolution_00460",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_battery_capacity_00550",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_price_01004",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_color_00197",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3886580765247345
+    },
+    {
+      "record_id": "GameStation_X1_storage_00255",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_color_00112",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3899405002593994
+    },
+    {
+      "record_id": "BrewMaster_3000_price_00883",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_capacity_00820",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SoundHub_Max_weight_00348",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_case_diameter_00746",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PowerBank_Mega_capacity_00413",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "MegaTablet_Pro_storage_00063",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_battery_life_00101",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AeroRunner_5_drop_00662",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AeroRunner_5_drop_00670",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_price_01169",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "MegaTablet_Pro_screen_size_00056",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_case_diameter_00747",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BrewMaster_3000_price_00885",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_color_00479",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.19266560673713684
+    },
+    {
+      "record_id": "PowerBank_Mega_weight_00421",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ZenMat_Premium_price_01046",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DroneFlyer_X5_price_00363",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_price_00442",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AeroRunner_5_color_00675",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.4263865351676941
+    },
+    {
+      "record_id": "UltraLaptop_Air_ram_00100",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_resistance_levels_01098",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_color_00195",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3886580765247345
+    },
+    {
+      "record_id": "PowerBank_Mega_capacity_00417",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_energy_usage_00827",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_price_01010",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_price_00804",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "GameStation_X1_price_00249",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartPen_Scribe_price_00485",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "TurboSUV_GT_color_00591",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.37733715772628784
+    },
+    {
+      "record_id": "TurboSUV_GT_fuel_economy_00585",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BrewMaster_3000_tank_capacity_00904",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_color_00958",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3878259062767029
+    },
+    {
+      "record_id": "CloudRack_X8_color_01153",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.383209764957428
+    },
+    {
+      "record_id": "CyclePro_R3_color_01119",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.19662703573703766
+    },
+    {
+      "record_id": "CloudRack_X8_price_01128",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "FitBand_Ultra_battery_life_00220",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartPen_Scribe_pressure_levels_00498",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StormJacket_Pro_price_00686",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_flywheel_weight_01110",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "GameStation_X1_price_00244",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_price_00527",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_accuracy_01030",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AeroRunner_5_color_00677",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.4263865351676941
+    },
+    {
+      "record_id": "MegaTablet_Pro_storage_00065",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_battery_life_00139",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_battery_life_00469",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_price_00121",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_weight_00146",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SuperPhone_X_battery_life_00015",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_refresh_rate_01179",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_color_00472",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.4005392789840698
+    },
+    {
+      "record_id": "MegaTablet_Pro_price_00044",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StormJacket_Pro_weight_00693",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_battery_life_00132",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_battery_life_00461",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartPen_Scribe_battery_life_00508",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "GameStation_X1_price_00248",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_price_00925",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BrewMaster_3000_pressure_00898",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "RoboVac_S9_price_00765",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_flywheel_weight_01105",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ElectroCycle_R1_color_00639",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.19493216276168823
+    },
+    {
+      "record_id": "PowerBank_Mega_capacity_00412",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PowerBank_Mega_color_00434",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.38675791025161743
+    },
+    {
+      "record_id": "AirClean_Max_noise_level_00867",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_color_01111",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.42392396926879883
+    },
+    {
+      "record_id": "SoundHub_Max_power_output_00339",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PulseTracker_Pro_battery_life_00974",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "GameStation_X1_power_draw_00263",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "GameStation_X1_storage_00258",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_weight_00142",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PulseTracker_Pro_color_00996",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.4265313446521759
+    },
+    {
+      "record_id": "PixelLens_Z7_megapixels_00176",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CloudRack_X8_color_01156",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.383209764957428
+    },
+    {
+      "record_id": "SmartPen_Scribe_pressure_levels_00494",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_color_00119",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.20887014269828796
+    },
+    {
+      "record_id": "SmartPen_Scribe_pressure_levels_00491",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ElectroCycle_R1_weight_00630",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_case_diameter_00744",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "FitBand_Ultra_weight_00230",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SuperPhone_X_color_00040",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.23471522331237793
+    },
+    {
+      "record_id": "BalanceScale_X_price_01001",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AeroRunner_5_drop_00664",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SuperPhone_X_price_00002",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SoundHub_Max_power_output_00331",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "RoboVac_S9_price_00766",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_resistance_levels_01096",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_response_time_01182",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ZenMat_Premium_color_01074",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.40008649230003357
+    },
+    {
+      "record_id": "ElectroCycle_R1_range_00612",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "FitBand_Ultra_battery_life_00218",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_color_01040",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.23666882514953613
+    },
+    {
+      "record_id": "DroneFlyer_X5_price_00366",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_accuracy_01026",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_range_00540",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SuperPhone_X_price_00007",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_price_00930",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SoundHub_Max_price_00324",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BrewMaster_3000_pressure_00891",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ElectroCycle_R1_price_00602",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01200",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.23829299211502075
+    },
+    {
+      "record_id": "ViewMax_QHD_refresh_rate_01173",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CloudRack_X8_ram_01136",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "FitBand_Ultra_color_00235",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3750886619091034
+    },
+    {
+      "record_id": "SuperPhone_X_weight_00024",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartPen_Scribe_color_00515",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.36243492364883423
+    },
+    {
+      "record_id": "CyclePro_R3_price_01084",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_color_00959",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.21555116772651672
+    },
+    {
+      "record_id": "RoboVac_S9_battery_life_00782",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "RoboVac_S9_battery_life_00789",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_battery_life_00131",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01191",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3845638930797577
+    },
+    {
+      "record_id": "SoundHub_Max_price_00328",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StreamCast_4K_color_00314",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3923245668411255
+    },
+    {
+      "record_id": "FitBand_Ultra_weight_00225",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_ram_00097",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_weight_00187",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_weight_capacity_01011",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ZenMat_Premium_price_01044",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StreamCast_4K_price_00284",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CloudRack_X8_price_01127",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_case_diameter_00742",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_capacity_00818",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AirClean_Max_color_00878",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.34899717569351196
+    },
+    {
+      "record_id": "EcoSedan_S_range_00539",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_flywheel_weight_01104",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartPen_Scribe_battery_life_00506",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01195",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3845638930797577
+    },
+    {
+      "record_id": "EcoSedan_S_battery_capacity_00543",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StreamCast_4K_resolution_00293",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_resolution_00940",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_capacity_00811",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_accuracy_01023",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PowerBank_Mega_color_00436",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.38675791025161743
+    },
+    {
+      "record_id": "AeroRunner_5_price_00645",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PowerBank_Mega_color_00433",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.38675791025161743
+    },
+    {
+      "record_id": "NoiseGuard_Pro_battery_life_00136",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_battery_capacity_00549",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartFridge_Plus_energy_usage_00822",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AeroRunner_5_price_00647",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_response_time_01190",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_battery_life_00470",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_color_00115",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3899405002593994
+    },
+    {
+      "record_id": "AeroRunner_5_drop_00665",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_price_00450",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_color_00553",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3503926992416382
+    },
+    {
+      "record_id": "RoboVac_S9_suction_power_00778",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_field_of_view_00947",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SoundHub_Max_power_output_00335",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01197",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3845638930797577
+    },
+    {
+      "record_id": "CyclePro_R3_resistance_levels_01094",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SoundHub_Max_color_00351",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.40363550186157227
+    },
+    {
+      "record_id": "NoiseGuard_Pro_weight_00147",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_battery_capacity_00547",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PowerBank_Mega_weight_00430",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_price_00728",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_color_00759",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.21205399930477142
+    },
+    {
+      "record_id": "SoundHub_Max_power_output_00334",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_case_diameter_00748",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_price_00929",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_refresh_rate_01172",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_price_01166",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "FitBand_Ultra_price_00207",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_response_time_01186",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_price_00164",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "TurboSUV_GT_color_00593",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.37733715772628784
+    },
+    {
+      "record_id": "ActionCam_Hero8_battery_life_00467",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_ram_00094",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "NoiseGuard_Pro_weight_00143",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DroneFlyer_X5_color_00394",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.39442357420921326
+    },
+    {
+      "record_id": "ChronoLux_42_case_diameter_00741",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ElectroCycle_R1_price_00601",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CloudRack_X8_ram_01131",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_price_00162",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "RoboVac_S9_suction_power_00776",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "GameStation_X1_storage_00256",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_resistance_levels_01099",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "DoorView_HD_field_of_view_00941",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "UltraLaptop_Air_price_00089",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "EcoSedan_S_battery_capacity_00542",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StormJacket_Pro_waterproof_rating_00705",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ChronoLux_42_water_resistance_00736",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_color_00199",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.21063841879367828
+    },
+    {
+      "record_id": "RoboVac_S9_suction_power_00779",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_weight_00190",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01194",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3845638930797577
+    },
+    {
+      "record_id": "StormJacket_Pro_price_00690",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_price_00441",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StreamCast_4K_color_00319",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.2385680079460144
+    },
+    {
+      "record_id": "ViewMax_QHD_refresh_rate_01177",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StormJacket_Pro_weight_00697",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AirClean_Max_noise_level_00866",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SoundHub_Max_price_00327",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SuperPhone_X_battery_life_00014",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "TurboSUV_GT_price_00570",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BrewMaster_3000_color_00920",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.2130219042301178
+    },
+    {
+      "record_id": "ActionCam_Hero8_resolution_00452",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AirClean_Max_coverage_area_00860",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ViewMax_QHD_color_01193",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3845638930797577
+    },
+    {
+      "record_id": "PowerBank_Mega_price_00408",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CloudRack_X8_storage_01150",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "MegaTablet_Pro_screen_size_00055",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "BalanceScale_X_color_01035",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.35522061586380005
+    },
+    {
+      "record_id": "ActionCam_Hero8_color_00477",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.4005392789840698
+    },
+    {
+      "record_id": "ActionCam_Hero8_price_00448",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_color_00192",
+      "visually_verifiable": true,
+      "gt_label": "CONSISTENT",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.3886580765247345
+    },
+    {
+      "record_id": "MegaTablet_Pro_storage_00062",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "MegaTablet_Pro_storage_00066",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "AirClean_Max_noise_level_00865",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "PixelLens_Z7_megapixels_00179",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "CyclePro_R3_color_01117",
+      "visually_verifiable": true,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "SUPPORT",
+      "pred_score": 0.42392396926879883
+    },
+    {
+      "record_id": "FitBand_Ultra_price_00210",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "StreamCast_4K_price_00286",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "ActionCam_Hero8_resolution_00458",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "SmartPen_Scribe_battery_life_00502",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "TurboSUV_GT_price_00564",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "MegaTablet_Pro_screen_size_00052",
+      "visually_verifiable": false,
+      "gt_label": "CONSISTENT",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    },
+    {
+      "record_id": "FitBand_Ultra_weight_00229",
+      "visually_verifiable": false,
+      "gt_label": "CONTRADICTORY",
+      "pred_label": "NO_EVIDENCE",
+      "pred_score": 0.0
+    }
+  ]
+}

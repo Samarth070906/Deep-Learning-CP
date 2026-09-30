@@ -1,0 +1,22 @@
+[
+  {"record_id": "SuperPhone_X_price_00001", "human_score": 92, "rater_notes": "Exact match"},
+  {"record_id": "SuperPhone_X_price_00002", "human_score": 92, "rater_notes": "Exact match"},
+  {"record_id": "SuperPhone_X_price_00003", "human_score": 92, "rater_notes": "Exact match"},
+  {"record_id": "SuperPhone_X_price_00004", "human_score": 90, "rater_notes": "Exact match in evidence; verifier incorrectly said NO_EVIDENCE"},
+  {"record_id": "SuperPhone_X_price_00005", "human_score": 90, "rater_notes": "Exact match in evidence; verifier incorrectly said NO_EVIDENCE"},
+  {"record_id": "SuperPhone_X_price_00006", "human_score": 35, "rater_notes": "~10% price deviation"},
+  {"record_id": "SuperPhone_X_price_00007", "human_score": 8, "rater_notes": "~30% price deviation"},
+  {"record_id": "SuperPhone_X_price_00008", "human_score": 5, "rater_notes": "~38% price deviation"},
+  {"record_id": "SuperPhone_X_price_00009", "human_score": 92, "rater_notes": "Exact match"},
+  {"record_id": "SuperPhone_X_price_00010", "human_score": 42, "rater_notes": "~8.2% price deviation"},
+  {"record_id": "SuperPhone_X_battery_life_00011", "human_score": 92, "rater_notes": "Exact match"},
+  {"record_id": "SuperPhone_X_battery_life_00016", "human_score": 40, "rater_notes": "~8.7% deviation"},
+  {"record_id": "SuperPhone_X_battery_life_00017", "human_score": 20, "rater_notes": "~15.5% deviation"},
+  {"record_id": "SuperPhone_X_battery_life_00018", "human_score": 8, "rater_notes": "~28.5% deviation (overshoot)"},
+  {"record_id": "SuperPhone_X_battery_life_00020", "human_score": 24, "rater_notes": "~13.3% deviation"},
+  {"record_id": "SuperPhone_X_weight_00026", "human_score": 40, "rater_notes": "~7.8% deviation"},
+  {"record_id": "SuperPhone_X_weight_00027", "human_score": 8, "rater_notes": "~26% deviation"},
+  {"record_id": "SuperPhone_X_color_00031", "human_score": 95, "rater_notes": "Exact match, both modalities agree"},
+  {"record_id": "SuperPhone_X_color_00032", "human_score": 95, "rater_notes": "Exact match, both modalities agree"},
+  {"record_id": "SuperPhone_X_color_00033", "human_score": 95, "rater_notes": "Exact match, both modalities agree"}
+]
